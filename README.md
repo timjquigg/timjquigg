@@ -8,9 +8,11 @@
     <a href="mailto:timjquigg@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=white?style=plastic" alt="E-mail" />
     </a>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=timjquigg&style=flat-square&color=red" alt="Profile Views" />
+    <a href="https://resume.creddle.io/resume/ghsc9l367ig">
+      <img src="https://shields.io/badge/Resume-red" alt="Resume"/>
+    </a>
   </div>
+    <img src="https://komarev.com/ghpvc/?username=timjquigg&style=flat-square&color=red" alt="Profile Views" />
 </div>
 
 ---
