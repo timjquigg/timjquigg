@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white?style=plastic" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:timjquigg@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=white?style=plastic" alt="E-mail" />
+      <img src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=white?style=plastic" alt="E-mail" />
     </a>
     <a href="https://resume.creddle.io/resume/ghsc9l367ig">
       <img src="https://shields.io/badge/Resume-red" alt="Resume"/>
