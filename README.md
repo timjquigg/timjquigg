@@ -2,17 +2,17 @@
   <div id="badges">
     <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100" >
     <p>Connect with me</p>
-    <a href="https://www.linkedin.com/in/timjquigg/">
+    <a href="https://www.linkedin.com/in/timjquigg/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white?style=plastic" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:timjquigg@gmail.com">
+    <a href="mailto:timjquigg@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=white?style=plastic" alt="E-mail" />
     </a>
-    <a href="https://resume.creddle.io/resume/ghsc9l367ig">
+    <a href="https://resume.creddle.io/resume/ghsc9l367ig" target="_blank">
       <img src="https://shields.io/badge/Resume-red" alt="Resume"/>
     </a>
     <br>
-    <a href="https://www.codewars.com/users/timjquigg/">
+    <a href="https://www.codewars.com/users/timjquigg/" target="_blank">
       <img src="https://www.codewars.com/users/timjquigg/badges/small" alt="Codewars">
     </a>
   </div>
