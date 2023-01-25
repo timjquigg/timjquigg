@@ -11,6 +11,10 @@
     <a href="https://resume.creddle.io/resume/ghsc9l367ig">
       <img src="https://shields.io/badge/Resume-red" alt="Resume"/>
     </a>
+    <br>
+    <a href="https://www.codewars.com/users/timjquigg/">
+      <img src="https://www.codewars.com/users/timjquigg/badges/small" alt="Codewars">
+    </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=timjquigg&style=flat-square&color=red" alt="Profile Views" />
 </div>
